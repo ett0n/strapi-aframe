@@ -12,7 +12,7 @@
       "repeatable": true,
       "component": "accessories.accesories"
     },
-    "name": {
+    "cat_name": {
       "type": "string",
       "required": true
     }
